@@ -1,7 +1,12 @@
-# LOOKLIKE
+> # LOOKLIKE
 온라인 쇼핑몰을 주제로 한 Spring Project 입니다
 
+> # Description
+# Project
+
+
 # Part
+##### Register & Log-in
 1. 회원가입 시 ID, Email 중복 및 유효성 검사
 2. ID, Email 정보로 비밀번호 찾기 시 Email 인증 번호 발송 및 확인, 임시 비밀번호 발급 처리
 3. 회원 개인정보 수정 및 탈퇴
