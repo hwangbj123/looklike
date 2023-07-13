@@ -10,4 +10,6 @@
 6. 아임포트 API를 활용하여 kakaopay와 한국정보통신 결제 및 환불 기능 구현
 7. 결제 및 환불로 인한 상품 재고 수량 변경
 
-# 
+# show
+https://github.com/hwangbj123/looklike/assets/136680186/259a78af-3b85-4b91-8b16-4491db035c35
+
