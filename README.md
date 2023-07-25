@@ -108,7 +108,7 @@ https://github.com/hwangbj123/looklike/assets/136680186/6ddca53b-3886-4994-8101-
 - 아이디와 이메일 확인 후 인증번호 메일 발송 ( MimeMessage 라이브러리 사용 )
 - 인증번호 확인 후 임시 비밀번호 변경 및 공지
 - MailSendService
-![image](https://github.com/hwangbj123/looklike/assets/136680186/5bd5dce7-1046-4c84-9a9d-a2069338a5bd)
+![image](https://github.com/hwangbj123/looklike/assets/136680186/5492697d-3bdb-418a-9c82-8fdeec80b20d)
 
 ### 결제 및 환불
 - 아임포트에서 제공하는 URL 및 등록된 Key와 Secret 코드 사용
